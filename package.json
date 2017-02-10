@@ -1,0 +1,23 @@
+{
+    "name"         : "node-red-contrib-sap-hcp-iot-services",
+    "version"      : "0.0.1",
+    "description"  : "Node Red node for SAP HANA Cloud Platform IoT Services",
+    "dependencies": {
+    },
+    "keywords": [ "node-red", "sap", "hcp", "hana", "cloud", "iot", "mms", "neo", "ridvan", "rpi", "raspberry", "pi", "arduino" ],
+    "node-red"     : {
+        "nodes": {
+            "iot-mms": "iot-mms.js"
+        }
+    },
+    "author": {
+      "name": "Ridvan Polat",
+      "email": "rp@ridvanpolat.com",
+      "url": "https://github.com/ridvanpolat"
+    },
+    "contributors": [{
+      "name": "Ridvan Polat",
+      "email": "rp@ridvanpolat.com",
+      "url": "https://github.com/ridvanpolat"
+    }]
+}
